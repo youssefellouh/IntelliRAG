@@ -25,7 +25,7 @@ IntelliRAG/
 |-- data/                       # Directory for storing PDF documents
 |-- ask.py                      # Main script for querying the system
 |-- load_and_process.py         # Script for loading and processing documents
-|-- .env                        # Environment variables
+|-- .env.example                # file and add your OpenAI API key
 |-- README.md                   # Project documentation
 ```
 
